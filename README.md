@@ -18,8 +18,6 @@ O **Sistema de Gestão de Academia** é uma aplicação desenvolvida em C# que v
 
 
 
-Autores: Victor Bittencourt
-         João Victor de Pinho Gasparoto
-         Demetrius Louro de Sousa Leite
+Autores: Victor Bittencourt, João Victor de Pinho Gasparoto, Demetrius Louro de Sousa Leite
 
 Instituição: Instituto InfNet — Análise e Desenvolvimento de Sistemas (2º Semestre)

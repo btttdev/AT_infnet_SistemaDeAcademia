@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\bin\Debug\net10.0\SistemaAcademia.exe
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\bin\Debug\net10.0\SistemaAcademia.deps.json
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\bin\Debug\net10.0\SistemaAcademia.runtimeconfig.json
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\bin\Debug\net10.0\SistemaAcademia.dll
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\bin\Debug\net10.0\SistemaAcademia.pdb
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\obj\Debug\net10.0\SistemaAcademia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\obj\Debug\net10.0\SistemaAcademia.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\obj\Debug\net10.0\SistemaAcademia.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\obj\Debug\net10.0\SistemaAcademia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\obj\Debug\net10.0\SistemaAcademia.dll
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\obj\Debug\net10.0\refint\SistemaAcademia.dll
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\obj\Debug\net10.0\SistemaAcademia.pdb
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\obj\Debug\net10.0\SistemaAcademia.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\obj\Debug\net10.0\ref\SistemaAcademia.dll
+C:\Users\Usuario\Documents\Faculdade\C#\SistemaAcademia\obj\Debug\net10.0\SistemaA.5DEFD5C9.Up2Date
